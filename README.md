@@ -6,23 +6,3 @@
 </section>
 <br /><br />
 
-## Learning Resources
-
-- [Blog](https://webstudio.is/blog)
-- [Community Documentation](https://github.com/webstudio-is/webstudio-community/tree/main/docs)
-- [Brand and Product Design](https://github.com/webstudio-is/webstudio-design/)
-
-## Social Media
-
-- [Twitter](https://twitter.com/getwebstudio)
-- [Youtube](https://www.youtube.com/@getwebstudio)
-- [Discord](https://discord.gg/UNdyrDkq5r)
-
-## Contributing
-
-- [Contributing Guide](https://github.com/webstudio-is/webstudio-community/blob/main/docs/contributing.md)
-- [Github Discussions](https://github.com/webstudio-is/webstudio-community/discussions)
-- [Wishlist](https://github.com/webstudio-is/webstudio-community/discussions/categories/wishlist)
-- [Builder Issues Tracker](https://github.com/webstudio-is/webstudio/issues)
-- [Roadmap](https://github.com/orgs/webstudio-is/projects)
-- [Design Assets and Docs](https://github.com/webstudio-is/webstudio-design)
